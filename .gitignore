@@ -1,3 +1,5 @@
 *.pcapng
 *.pcap
 __pycache__/
+body.bin
+t*-output.txt
